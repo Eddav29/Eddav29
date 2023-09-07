@@ -23,8 +23,9 @@ Saya memiliki minat khusus dalam beberapa bidang, di antaranya:
 ## Kontak
 Anda dapat menghubungi saya melalui beberapa platform:
 
-[LinkedIn](https://www.instagram.com/eddav29/)
-[Instagram](https://www.linkedin.com/in/eddo-dava-alfarisi-99b4b7274/)
+- [LinkedIn](https://www.instagram.com/eddav29/)
+- [Instagram](https://www.linkedin.com/in/eddo-dava-alfarisi-99b4b7274/)
+
 Jika Anda tertarik untuk berkolaborasi atau memiliki pertanyaan, jangan ragu untuk menghubungi saya.
 
 Terima kasih telah mengunjungi profil GitHub saya, dan saya berharap dapat berkolaborasi dan belajar bersama dalam perjalanan teknologi kita!
