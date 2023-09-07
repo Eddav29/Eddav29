@@ -1,10 +1,10 @@
-##Profil Saya
+## Profil Saya
 Halo! Saya Eddo Dava Alfarisi, seorang mahasiswa di Politeknik Negeri Malang jurusan Teknik Informatika. Selamat datang di profil GitHub saya, di mana Anda dapat menemukan proyek-proyek yang saya kerjakan dan mempelajari lebih lanjut tentang minat serta pencapaian saya dalam dunia teknologi.
 
-##Tentang Saya
+## Tentang Saya
 Saya adalah seorang mahasiswa yang sangat bersemangat dalam memahami dunia teknologi, terutama dalam bidang Teknik Informatika. Saya percaya bahwa teknologi dapat membawa perubahan positif dalam kehidupan kita, dan saya berkomitmen untuk belajar sebanyak mungkin untuk mencapai potensi penuh saya dalam bidang ini.
 
-##Pendidikan
+## Pendidikan
 Saat ini, saya sedang menempuh pendidikan di Politeknik Negeri Malang. Berikut adalah beberapa informasi tentang program studi saya:
 
 - Perguruan Tinggi: Politeknik Negeri Malang
@@ -12,7 +12,7 @@ Saat ini, saya sedang menempuh pendidikan di Politeknik Negeri Malang. Berikut a
 - Tahun Masuk: 2022
 - Tahun Perkiraan Lulus: 2026
 
-##Minat
+## Minat
 
 Saya memiliki minat khusus dalam beberapa bidang, di antaranya:
 - Pemrograman: Saya senang belajar dan mengembangkan perangkat lunak.
@@ -20,7 +20,7 @@ Saya memiliki minat khusus dalam beberapa bidang, di antaranya:
 
 - Pengembangan Web: Saya tertarik dalam pembuatan aplikasi web dan memiliki pengalaman dalam mengembangkan situs web menggunakan HTML, CSS, dan JavaScript.
   serta memiliki ketertarikan dengan teknologi terbaru yaitu mengenai beberapa framework Javascript contoh nya React.js , Vue.js, Next.js, dan Node.js
-##Kontak
+## Kontak
 Anda dapat menghubungi saya melalui beberapa platform:
 
 [LinkedIn](https://www.instagram.com/eddav29/)
