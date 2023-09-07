@@ -1,16 +1,32 @@
-### Hi there 👋
+##Profil Saya
+Halo! Saya Eddo Dava Alfarisi, seorang mahasiswa di Politeknik Negeri Malang jurusan Teknik Informatika. Selamat datang di profil GitHub saya, di mana Anda dapat menemukan proyek-proyek yang saya kerjakan dan mempelajari lebih lanjut tentang minat serta pencapaian saya dalam dunia teknologi.
 
-<!--
-**Eddav29/Eddav29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Tentang Saya
+Saya adalah seorang mahasiswa yang sangat bersemangat dalam memahami dunia teknologi, terutama dalam bidang Teknik Informatika. Saya percaya bahwa teknologi dapat membawa perubahan positif dalam kehidupan kita, dan saya berkomitmen untuk belajar sebanyak mungkin untuk mencapai potensi penuh saya dalam bidang ini.
 
-Here are some ideas to get you started:
+##Pendidikan
+Saat ini, saya sedang menempuh pendidikan di Politeknik Negeri Malang. Berikut adalah beberapa informasi tentang program studi saya:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Perguruan Tinggi: Politeknik Negeri Malang
+- Jurusan: Teknik Informatika
+- Tahun Masuk: 2022
+- Tahun Perkiraan Lulus: 2026
+
+##Minat
+
+Saya memiliki minat khusus dalam beberapa bidang, di antaranya:
+- Pemrograman: Saya senang belajar dan mengembangkan perangkat lunak.
+  Beberapa bahasa pemrograman yang saya kuasai antara lain Html,CSS, Java, PHP, dan JavaScript.
+
+- Pengembangan Web: Saya tertarik dalam pembuatan aplikasi web dan memiliki pengalaman dalam mengembangkan situs web menggunakan HTML, CSS, dan JavaScript.
+  serta memiliki ketertarikan dengan teknologi terbaru yaitu mengenai beberapa framework Javascript contoh nya React.js , Vue.js, Next.js, dan Node.js
+##Kontak
+Anda dapat menghubungi saya melalui beberapa platform:
+
+[LinkedIn](https://www.instagram.com/eddav29/)
+[Instagram](https://www.linkedin.com/in/eddo-dava-alfarisi-99b4b7274/)
+Jika Anda tertarik untuk berkolaborasi atau memiliki pertanyaan, jangan ragu untuk menghubungi saya.
+
+Terima kasih telah mengunjungi profil GitHub saya, dan saya berharap dapat berkolaborasi dan belajar bersama dalam perjalanan teknologi kita!
+
+
