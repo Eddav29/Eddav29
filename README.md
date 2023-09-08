@@ -2,7 +2,7 @@
 Halo! Saya Eddo Dava Alfarisi, seorang mahasiswa di Politeknik Negeri Malang jurusan Teknik Informatika. Selamat datang di profil GitHub saya, di mana Anda dapat menemukan proyek-proyek yang saya kerjakan dan mempelajari lebih lanjut tentang minat serta pencapaian saya dalam dunia teknologi.
 
 ## Tentang Saya
-Saya adalah seorang mahasiswa yang sangat bersemangat dalam memahami dunia teknologi, terutama dalam bidang Teknik Informatika. Saya percaya bahwa teknologi dapat membawa perubahan positif dalam kehidupan kita, dan saya berkomitmen untuk belajar sebanyak mungkin untuk mencapai potensi penuh saya dalam bidang ini.
+Saya adalah seorang mahasiswa yang sangat bersemangat dalam memahami dunia teknologi, terutama dalam bidang Teknik Informatika. Saya percaya bahwa teknologi dapat membawa perubahan positif dalam kehidupan kita, dan saya berkomitmen untuk belajar sebanyak mungkin untuk mencapai potensi penuh saya dalam bidang ini. saya juga seorang Junior Developer yang berkomitmen untuk mengembangkan solusi teknologi yang inovatif dan efisien. Dengan latar belakang pendidikan dan pengalaman dalam pengembangan web, saya memiliki keterampilan yang kuat dalam pemrograman dan desain web. Saya sangat bersemangat untuk terus belajar dan berkembang dalam industri teknologi.
 
 ## Pendidikan
 Saat ini, saya sedang menempuh pendidikan di Politeknik Negeri Malang. Berikut adalah beberapa informasi tentang program studi saya:
