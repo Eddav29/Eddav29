@@ -4,13 +4,6 @@ Halo! Saya Eddo Dava Alfarisi, seorang mahasiswa di Politeknik Negeri Malang jur
 ## Tentang Saya
 Saya adalah seorang mahasiswa yang sangat bersemangat dalam memahami dunia teknologi, terutama dalam bidang Teknik Informatika. Saya percaya bahwa teknologi dapat membawa perubahan positif dalam kehidupan kita, dan saya berkomitmen untuk belajar sebanyak mungkin untuk mencapai potensi penuh saya dalam bidang ini. saya juga seorang Junior Developer yang berkomitmen untuk mengembangkan solusi teknologi yang inovatif dan efisien. Dengan latar belakang pendidikan dan pengalaman dalam pengembangan web, saya memiliki keterampilan yang kuat dalam pemrograman dan desain web. Saya sangat bersemangat untuk terus belajar dan berkembang dalam industri teknologi.
 
-## Pendidikan
-Saat ini, saya sedang menempuh pendidikan di Politeknik Negeri Malang. Berikut adalah beberapa informasi tentang program studi saya:
-
-- Perguruan Tinggi: Politeknik Negeri Malang
-- Jurusan: Teknik Informatika
-- Tahun Masuk: 2022
-- Tahun Perkiraan Lulus: 2026
 
 ## Minat
 
