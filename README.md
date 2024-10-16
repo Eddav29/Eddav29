@@ -17,8 +17,8 @@ Saya memiliki minat khusus dalam beberapa bidang, di antaranya:
 <p align="left">
 <a href="https://github.com/Eddav29">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eddav29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eddav29&layout=compact&langs_count=8&theme=algolia"/>
+  <br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eddav29&layout=compact&langs_count=8&theme=algolia"/><br>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Eddav29&theme=ocean-gradient"/>
 </a>
 </p>
