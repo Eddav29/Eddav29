@@ -1,6 +1,6 @@
 <p align="center">
   <h2 align="center">👋 About Me</h2>
-  <p align="center">Hello! I'm <strong>Eddo Dava Alfarisi</strong>, a passionate <strong>Informatics Engineering</strong> student at <strong>Politeknik Negeri Malang</strong>. My journey in the tech world is fueled by my enthusiasm for <strong>web and mobile development</strong>. I'm always eager to explore new frameworks and tools, recently diving into exciting projects that challenge my skills.</p>
+  <p align="center">Hello! I'm <strong>Eddo Dava Alfarisi</strong>, a passionate <strong>IT Enthusiast</strong> . My journey in the tech world is fueled by my enthusiasm for <strong>web and mobile development</strong>. I'm always eager to explore new frameworks and tools, recently diving into exciting projects that challenge my skills.</p>
 </p>
 
 ---
