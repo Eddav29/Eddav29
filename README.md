@@ -3,7 +3,6 @@
   <p align="center">Hello! I'm <strong>Eddo Dava Alfarisi</strong>, an <strong>IT Enthusiast</strong> . My journey in the tech world is fueled by my enthusiasm for <strong>web and mobile development</strong>. I'm always eager to explore new frameworks and tools, recently diving into exciting projects that challenge my skills.</p>
 </p>
 
----
 
 <div align="center">
   <h2 align="center">🚀 My Tech Stack</h2>
@@ -19,7 +18,6 @@
   <a href="#"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/></a>
 </div>
 
----
 
 <p align="center">
   <h2>📊 GitHub Stats</h2>
@@ -41,7 +39,6 @@
   </tr>
 </table>
 
----
 
 <div align="center">
   <h2 align="center">📞 Contact Me</h2>
